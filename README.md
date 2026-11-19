@@ -1,2 +1,2 @@
 # Tanish-github
-This is for git&amp;github 
+This is for git&amp;github.
